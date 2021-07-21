@@ -1,0 +1,51 @@
+p {
+  font-size: 10px;
+  margin: 0;
+  text-align: center;
+}
+.containerMain {
+  margin: 0 auto;
+  height: 425px;
+  width: 600px;
+  border: 1px solid black;
+}
+.cityForm {
+  width: 50%;
+  margin: 10px;
+}
+.cityName {
+  font-size: 25px;
+  position: relative;
+  left: 25px;
+}
+
+.currentTemperature {
+  display: inline;
+  position: relative;
+  bottom: 30px;
+  left: 35px;
+}
+
+img {
+  max-width: 50%;
+  display: inline;
+  position: relative;
+  left: 90px;
+  bottom: 30px;
+  padding: 20px;
+}
+
+.dayName {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.weekWeather {
+  font-size: 20px;
+}
+#current-location {
+  display: inline;
+  position: relative;
+  left: 425px;
+  bottom: 40px;
+}
