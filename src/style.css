@@ -5,7 +5,7 @@ p {
 }
 .containerMain {
   margin: 0 auto;
-  height: 425px;
+  height: 475px;
   width: 600px;
   border: 1px solid black;
 }
@@ -48,4 +48,11 @@ img {
   position: relative;
   left: 425px;
   bottom: 40px;
+}
+
+.sourceCodeLink {
+  font-size: 11px;
+  position: relative;
+  left: 200px;
+  top: 25px;
 }
